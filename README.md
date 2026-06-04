@@ -5,7 +5,7 @@
 ![Status](https://img.shields.io/badge/Status-Completed-success.svg)
 ![License](https://img.shields.io/badge/License-MIT-green)
 
-> An IoT & AI-based autonomous surveillance solution designed to protect remote agricultural assets. It uses motion detection to trigger facial recognition, identifying authorized personnel vs. intruders and raising local/cloud alarms.
+> An IoT & AI-based autonomous surveillance solution designed to protect remote agricultural assets. It uses motion detection to trigger facial recognition, identifying authorized personnel vs. intruders and raising local/cloud alarms
 
 ---
 
