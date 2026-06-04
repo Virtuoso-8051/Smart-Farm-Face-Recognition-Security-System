@@ -124,6 +124,6 @@ Aryan Sandal (2024CSB1103)
 
 Uttam Kumar (2024AIB1019)
 
---- ---
+--- --- ---
 
 ## INDIAN INSTITUTE OF TECHNOLOGY ROPAR
